@@ -92,7 +92,3 @@ Listings/
 JLinkLog.txt
 *.uvguix.*
 ```
-
-## License
-
-Add a license of your choice (e.g. MIT) in a `LICENSE` file.
